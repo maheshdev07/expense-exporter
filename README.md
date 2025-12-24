@@ -53,7 +53,7 @@ Installation
 
 ```bash
 
-git clone <repository-url>
+git clone https://github.com/finkraftai/expense-exporter.git
 
 cd expense-exporter
 
